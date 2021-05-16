@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package com.github.burgerguy.packetunlimiter;
 
 import net.fabricmc.api.ModInitializer;
 

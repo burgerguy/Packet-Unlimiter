@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "PacketByteBufMixin"
   ],
   "injectors": {
     "defaultRequire": 1
